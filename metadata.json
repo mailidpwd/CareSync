@@ -1,0 +1,6 @@
+{
+  "name": "CareSync",
+  "description": "CareSync is a UN SDG 3 (Good Health and Well-being) health companion for medication adherence, mood tracking, water intake, sleep cycles, and routine management.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
